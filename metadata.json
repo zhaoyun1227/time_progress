@@ -1,0 +1,7 @@
+{
+  "name": "Time Compass",
+  "description": "A mindful time management application visualizing life, weekly, and daily progress with a built-in focus timer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
