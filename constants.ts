@@ -1,10 +1,10 @@
 import { UserSettings, Quote } from './types';
 
 export const DEFAULT_SETTINGS: UserSettings = {
-  birthDate: '1990-01-01',
+  birthDate: '1992-01-31',
   lifeExpectancy: 80,
-  workStartTime: '09:00',
-  workEndTime: '18:00',
+  workStartTime: '12:00',
+  workEndTime: '19:00',
   focusDuration: 45,
   hasOnboarded: false,
   workDays: [1, 2, 3, 4, 5], // Monday to Friday
